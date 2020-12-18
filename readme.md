@@ -1,5 +1,11 @@
 # Hi, I'm Nestor 👋🏻 🧑🏻‍💻
 
+### Profiles
+
+* [Instagram](https://www.instagram.com/nesbonilla/)
+* [Twitter](https://twitter.com/nestorbonillas)
+* [LinkedIn](https://www.linkedin.com/in/nestorbonilla/)
+
 <!--
 **nestorbonilla/nestorbonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

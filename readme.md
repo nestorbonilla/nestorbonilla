@@ -2,8 +2,8 @@
 
 ### Profiles
 
-* [Instagram](https://www.instagram.com/nesbonilla/)
-* [Twitter](https://twitter.com/nestorbonillas)
+* [Instagram](https://www.instagram.com/0xnestor/)
+* [Twitter](https://twitter.com/0xnestor)
 * [LinkedIn](https://www.linkedin.com/in/nestorbonilla/)
 
 <!--
